@@ -14,14 +14,15 @@
 
 
 ## 3rd Party Libraries 
+- jQuery
 - Bootstrap 4
+- WebJar
 
 
 ## Unit Testing Tools
 - JUnit 5
 - Mockito
 - MockMVC
-- Maven-Failsafe-Plugin (for Integration Testing)  
 
 
 ## CI Integration
