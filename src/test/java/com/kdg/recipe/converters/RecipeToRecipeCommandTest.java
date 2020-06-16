@@ -23,6 +23,7 @@ class RecipeToRecipeCommandTest {
     public static final Long INGRED_ID_1 = 3L;
     public static final Long INGRED_ID_2 = 4L;
     public static final Long NOTES_ID = 9L;
+
     RecipeToRecipeCommand converter;
 
     @BeforeEach
